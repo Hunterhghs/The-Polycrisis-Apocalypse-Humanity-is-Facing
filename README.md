@@ -13,10 +13,11 @@ A scenario analysis of survivability risk regions, demographic tectonics, and th
 | File | Purpose |
 |---|---|
 | `The_Polycrisis_Apocalypse_Humanity_Is_Facing.docx` | Master Word deliverable (each section starts on a new page) |
-| `The_Polycrisis_Apocalypse_Humanity_Is_Facing.pdf` | PDF export for the web |
-| `index.html` | GitHub Pages landing page with embedded PDF viewer |
+| `The_Polycrisis_Apocalypse_Humanity_Is_Facing.pdf` | PDF export (38 pages) |
+| `index.html` | **Digital report webpage** — digitalreports.hheuristics.com house format: masthead caption, sticky nav, exec-grid, stat-grid, chart-containers, pull-quotes, ref-list, report footer. 4 figures are interactive Chart.js charts |
+| `build_site.py` | Builds `index.html` from `sections/*.md` via pandoc |
 | `sections/*.md` | Source markdown sections (13 files) |
-| `figures/*.png` | 10 brand-styled matplotlib figures |
+| `figures/*.png` | 10 brand-styled matplotlib figures (6 embedded as PNG; 4 re-rendered interactively) |
 | `OUTLINE.md` | Budgeted outline (word counts, figures, tables, sources) |
 | `build.js` | docx-js assembly script (US Letter, TOC, headers/footers) |
 | `make_figures.py` | Figure generation (save_chart docx-safe pattern) |
@@ -24,6 +25,9 @@ A scenario analysis of survivability risk regions, demographic tectonics, and th
 ## Rebuild
 
 ```bash
+# digital report webpage
+python3 build_site.py
+
 # figures
 source ../.reasonix-env.sh && python3 make_figures.py
 # document
