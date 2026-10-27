@@ -1,0 +1,31 @@
+# 5. The Middle-50% Hypothesis: The Average Human in 2200
+
+## Where the median human lives today
+
+The median human being — the person at the exact middle of the global population distribution — lives today in Asia. The center of humanity has not moved for centuries, because Asia has held the majority of the world's population for most of recorded history. That anchor is now shifting. The question this chapter asks is where the median human lives in 2200, and what it means that the answer is no longer Asia.
+
+The mechanics are simple. The median human lives in the region that contains the 50th percentile of the population distribution. As Africa's share of humanity climbs from 18 to 37 percent and Asia's falls from 59 to 45 percent by 2100, the center of gravity slides south. Extend the UN's medium-variant trajectory one century further — the standard practice in long-run demographic scenario work — and Africa's share approaches the mid-40s while Asia's falls toward the high 30s. The median human enters Africa somewhere in the twenty-second century. Figure 6 illustrates the shift.
+
+FIG|fig6_middle50|The median human's region over time. Under the long-run demographic scenario, the middle of the human distribution enters Africa in the 22nd century.
+
+## The middle 50, not the average
+
+The report prefers "middle 50" to "average" for a precise reason. Averages hide distributions. The relevant unit for civilizational risk is not the statistical mean of human income or health but the central half of the population — the billions who are neither the global elite nor the most destitute. What happens to the middle 50 decides the species' trajectory, because the middle 50 supplies the labor, the children, the soldiers, the consumers, and the voters of the future.
+
+The middle-50 hypothesis states that the future median human will be born in a survivability risk region. The evidence already points that way. The highest-fertility countries are disproportionately concentrated in the same latitudes that carry the heaviest climate, pollution, and conflict burdens. The World Bank's poverty map and the H Heuristics survivability map overlap almost perfectly. If current trajectories hold, the typical human of 2200 is not a wealthy professional in a temperate refugium. The typical human is a child born into a risk-region household — exposed to hazardous air, rationed water, insecure food, and a state too weak to guarantee any of the three. The middle 50 do not become trapped because they are African. They become trapped because the places where humanity is growing are the places humanity has failed to make safe.
+
+## The geography of the median
+
+The median human's location can be computed with some precision. Today the 50th percentile of the global population sits in South Asia — the dense band from Pakistan through India to Bangladesh. By 2050 it will have moved toward sub-Saharan Africa's young populations and toward the urban coasts of Africa and Asia. The UN's regional projections imply that Africa, Asia, and the rest of the world will each approach parity in the twenty-second century, with Africa holding the largest single share. The median human is therefore not an abstraction: it is a specific child, born in a specific risk-region city, around a specific year in the twenty-second century, into whatever institutions and energy systems this century decides to build. The middle-50 hypothesis is a way of forcing policy to see that child while there is still time to change the child's circumstances.
+
+## "Tens of thousands of years": a metric that misleads
+
+The report was asked to consider the claim that this shift leaves the average human "less developed in evolutionary progression by tens of thousands of years." The metric fails on two counts. First, as established in the previous chapter, evolutionary progression is not a quantity any population possesses in degrees. Second, even as a metaphor the number misleads, because it frames a development gap as a species regression. Development is not coded into populations; it is built by institutions, infrastructure, and education systems, and it can be built quickly where those are present. South Korea moved from war-devastated poverty to technological leadership inside two generations. No population requires tens of thousands of years to develop anything. The binding constraint is never genetic time. It is whether the risk region gets the institutions, energy, and capital to make its median child safe.
+
+The honest version of the claim remains consequential. If the median human of 2200 is born into a risk region that has not developed the institutions and infrastructure to protect its population, then the median human will be poorer, sicker, and less educated than today's median human — a genuine civilizational regression measured in development decades. That is not a prediction about African capacity. It is a prediction about what happens to any population, of any ancestry, left inside the risk region for a century without the tools to escape it. The apocalypse, on this reading, is a development failure at planetary scale, not a biological one.
+
+## What the middle 50 mean for civilization
+
+The location of the median human determines where civilization's center of gravity sits. It determines where the world's consumers are, where its workers are, where its militaries recruit, and where its political power accretes. A civilization whose median member lives in a risk region is a civilization that must either develop the risk region or accept permanent immiseration as its default condition. The twenty-first century has not yet made that choice. The choices made now — about energy access, education, governance, and the transfer of clean technology — determine whether the median human of 2200 inherits a trap or a refuge.
+
+The middle-50 hypothesis therefore converts a demographic observation into a policy deadline. The median human is already moving. The destination is not yet fixed. Risk regions are not geographical fate; they are the accumulated result of underinvestment, and underinvestment can be reversed within the century that remains before the shift completes.
